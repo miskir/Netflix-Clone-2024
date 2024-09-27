@@ -39,10 +39,15 @@
   color: #000;
   background-color: #fff;
 }
+.play:hover {
+  color: #fff;
+  background-color: #170ce7;
+  transition: all 0.2s;
+}
 .banner_button:hover {
   color: #000;
   background-color: #fff;
-  transition: all0.2s;
+  transition: all 0.2s;
 }
 .banner_fadeBottom {
   height: 40vh;
